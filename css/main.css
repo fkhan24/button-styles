@@ -33,8 +33,5 @@ div {
   color: #fff;
   background-color: #ccc;
   padding: .4em;
-  border-radius: 8px;
-  border-width: 3px
-  text-size: 1.125rem;
-  text-decoration: none;
+  border-width: 3px;
 }
